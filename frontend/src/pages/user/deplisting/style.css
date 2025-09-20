@@ -1,0 +1,11 @@
+.use-profile {
+  display: flex;
+  margin-top: 70px;
+  margin-left: 50px;
+  gap: 20px;
+}
+.dep {
+  color: #589bff;
+  margin: 30px 500px;
+  font-size: 45px;
+}

@@ -1,0 +1,43 @@
+.doc-pro {
+  margin: 80px;
+  display: flex;
+  gap: 100px;
+  /* border: 2px solid rgb(180, 179, 179); */
+  padding: 30px;
+  background-color: rgb(234, 236, 236);
+  border-radius: 20px;
+}
+
+.prof-doc {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white;
+}
+
+.prof-doc img {
+  width: 250px;
+}
+
+.prof-doc h1 {
+  margin-top: 25px;
+}
+
+.doc-slot .slot-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 50px;
+}
+
+.slots-doc {
+  /* background-color: rgb(197, 194, 194); */
+  border-radius: 5px;
+  padding: 7px;
+  box-shadow: 0 0 5px 5px rgb(184, 184, 184);
+}
+.booked {
+  background-color: rgb(197, 194, 194);
+}
+.slot-card {
+  background-color: white;
+}

@@ -1,0 +1,15 @@
+.doc-signup {
+  margin: 0px;
+}
+.doc-signup .doc-signup-form {
+  margin: 140px auto;
+  box-shadow: 0 0 1px 5px rgb(135, 7, 35);
+  padding: 30px;
+  width: 350px;
+  border-radius: 5px;
+  backdrop-filter: blur(30px);
+}
+
+.doc-signup .doc-signup-form {
+  color: #1f0117;
+}

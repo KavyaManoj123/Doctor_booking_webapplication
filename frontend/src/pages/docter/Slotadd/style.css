@@ -1,0 +1,28 @@
+.doc-signnup-form {
+  margin: 20px auto;
+  box-shadow: 0 0 1px 5px rgb(189, 211, 229);
+  padding: 30px;
+  width: 350px;
+  border-radius: 5px;
+}
+
+.slot-added {
+  margin-top: 200px;
+  margin-left: 400px;
+  width: 500px;
+  border: 2px solid black;
+  padding: 30px;
+  background-color: rgb(223, 222, 221);
+  border-radius: 5px;
+  /* position: relative; */
+}
+
+.slot-btn {
+  position: absolute;
+  display: flex;
+  margin-left: 380px;
+  background-color: rgb(138, 44, 44);
+  border: none;
+  border-radius: 3px;
+  padding: 3px 9px;
+}

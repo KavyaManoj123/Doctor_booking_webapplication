@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+.doc-profile {
+  width: 90%;
+  height: 570px;
+  background-color: #e7e5e5;
+  border-radius: 15px;
+  margin: 50px;
+}
+
+.doc-profile h1 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.nav-bar-doc {
+  width: 100%;
+  height: 70px;
+  background-color: rgb(163, 164, 164);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 50px;
+}
